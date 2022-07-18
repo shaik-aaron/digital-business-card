@@ -1,9 +1,10 @@
 import React from 'react';
+import person from '../Images/person.png'
 
 export default function Image() {
     return (
         <div className="Image">
-            <img src='./dist/assets/person.png'></img>
+            <img src={person}/>
         </div>
     )
 }
