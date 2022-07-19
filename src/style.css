@@ -112,7 +112,7 @@ footer {
     justify-content: space-evenly;
 }
 
-footer > i{
+footer > a{
     margin: auto;
     color: #918E9B;
 }
